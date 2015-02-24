@@ -1,0 +1,6 @@
+c:\users\robert\documents\visual studio 2013\Projects\AVLisp\AVLisp\bin\Debug\AVLisp.exe.config
+c:\users\robert\documents\visual studio 2013\Projects\AVLisp\AVLisp\bin\Debug\AVLisp.exe
+c:\users\robert\documents\visual studio 2013\Projects\AVLisp\AVLisp\bin\Debug\AVLisp.pdb
+c:\users\robert\documents\visual studio 2013\Projects\AVLisp\AVLisp\obj\Debug\AVLisp.exe
+c:\users\robert\documents\visual studio 2013\Projects\AVLisp\AVLisp\obj\Debug\AVLisp.pdb
+c:\users\robert\documents\visual studio 2013\Projects\AVLisp\AVLisp\obj\Debug\AVLisp.csprojResolveAssemblyReference.cache
